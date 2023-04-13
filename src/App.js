@@ -1,4 +1,4 @@
-import Crardlist from './components/BannerCardItem'
+import CrardList from './components/BannerCardItem'
 import './App.css'
 
 const bannerCardsList = [
